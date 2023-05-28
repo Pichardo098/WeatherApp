@@ -115,7 +115,7 @@ function App() {
     
     axios.get(URL_City)
     .then(({data}) => setWeatherInfo(data))
-    .catch((err) => console.log(err))
+    .catch((err) => window.alert(`${err.response.statusText}.${"Search by another name."}`))
     
     //body.style.backgroundImage = iconImages[`${weatherInfo?.weather[0].icon}`]?.bkg
   }
