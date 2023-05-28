@@ -65,7 +65,7 @@ function App() {
         
       </main>
       <footer className='text-center sm:text-2xl'>
-        Crated by Jesús for Academlo
+        Created by Jesús for Academlo
       </footer>
     </>
   )
