@@ -19,29 +19,38 @@ main{
 
 .clearsky{
   background-image: url("/public/bgkImages/clearsky.jpg");
+  transition: all 3s;
 }
 .fewclouds{
   background-image: url("/public/bgkImages/fewclouds.jpg");
+  transition: all 3s;
 }
 .scatteredclouds{
   background-image: url("/public/bgkImages/scatteredclouds.jpg");
+  transition: all 3s;
 }
 .brokenclouds{
   background-image: url("/public/bgkImages/brokenclouds.jpg");
+  transition: all 3s;
 }
 .showerrain{
   background-image: url("/public/bgkImages/showerrain.jpg");
+  transition: all 3s;
 }
 .rain{
   background-image: url("/public/bgkImages/rain.jpg");
+  transition: all 3s;
 }
 .thunderstorm{
   background-image: url("/public/bgkImages/thunderstorm.jpg");
+  transition: all 3s;
 }
 .snow{
   background-image: url("/public/bgkImages/snow.jpg");
+  transition: all 3s;
 }
 .mist{
   background-image: url("/public/bgkImages/mist.jpg");
+  transition: all 3s;
 }
 
