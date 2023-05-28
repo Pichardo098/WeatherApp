@@ -1,0 +1,47 @@
+
+#main{
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 0px;
+  padding: 2rem
+}
+
+.clearsky{
+  background-image: url("/public/bgkImages/clearsky.jpg");
+}
+.fewclouds{
+  background-image: url("/public/bgkImages/fewclouds.jpg");
+}
+.scatteredclouds{
+  background-image: url("/public/bgkImages/scatteredclouds.jpg");
+}
+.brokenclouds{
+  background-image: url("/public/bgkImages/brokenclouds.jpg");
+}
+.showerrain{
+  background-image: url("/public/bgkImages/showerrain.jpg");
+}
+.rain{
+  background-image: url("/public/bgkImages/rain.jpg");
+}
+.thunderstorm{
+  background-image: url("/public/bgkImages/thunderstorm.jpg");
+}
+.snow{
+  background-image: url("/public/bgkImages/snow.jpg");
+}
+.mist{
+  background-image: url("/public/bgkImages/mist.jpg");
+}
+
